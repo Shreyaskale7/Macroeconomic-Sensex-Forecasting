@@ -1,0 +1,5 @@
+{
+  "name": "Sensex Macro Fair-Value Dashboard",
+  "description": "A high-performance macroeconomic analytics dashboard for the Indian Sensex, providing fair-value estimates, contribution analysis, and medium-term forecasts using multi-horizon models.",
+  "requestFramePermissions": []
+}

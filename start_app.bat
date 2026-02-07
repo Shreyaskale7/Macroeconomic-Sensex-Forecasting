@@ -1,0 +1,9 @@
+@echo off
+echo Starting Sensex Macro Intelligence Platform...
+echo Ensure you have Python installed and added to PATH.
+echo Installing requirements if needed...
+pip install -r backend/requirements.txt
+echo Starting Server...
+echo Access the app at http://localhost:8000
+python backend/server.py
+pause
